@@ -385,4 +385,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Libre Office Temp Files
+*.docx
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,python,pycharm+all,pycharm
