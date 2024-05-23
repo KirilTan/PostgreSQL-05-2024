@@ -386,6 +386,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Libre Office Temp Files
-*.docx
+*.docx#
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,python,pycharm+all,pycharm
