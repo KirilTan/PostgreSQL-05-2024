@@ -390,5 +390,5 @@ $RECYCLE.BIN/
 
 # Idea files
 *.xml
-
+*.idea
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,python,pycharm+all,pycharm
