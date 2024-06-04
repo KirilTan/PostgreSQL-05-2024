@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/04_data_aggregation/exercise/04_exercise_data_aggregation_softuni_management_db.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/04_data_aggregation/exercise/04_exercise_gringotts_db.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/04_data_aggregation/lab/04_lab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/05_table_relations/lab/05_lab.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
