@@ -286,12 +286,3 @@ CREATE TABLE IF NOT EXISTS
             REFERENCES items (id)
 );
 
--- 11. Delete Cascade
-
--- 12. Update Cascade
-
--- 13. SET NULL
-
--- 14. Peaks in Rila
-
--- 15. Countries Without Any Rivers
