@@ -10,6 +10,7 @@
     <file url="file://$PROJECT_DIR$/05_table_relations/exercise/05_exercise.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/05_table_relations/exercise/05_exercise_geography_db.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/05_table_relations/lab/05_lab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/06_subqueries_and_joins/lab/06_lab.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
