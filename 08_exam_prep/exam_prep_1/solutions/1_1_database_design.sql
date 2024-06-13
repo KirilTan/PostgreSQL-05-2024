@@ -58,7 +58,7 @@ CREATE TABLE IF NOT EXISTS volunteers
     id            SERIAL PRIMARY KEY,
     name          VARCHAR(50) NOT NULL,
     phone_number  VARCHAR(15) NOT NULL,
-    address       VARCHAR(15),
+    address       VARCHAR(50),
     animal_id     INT,                  -- Relationship with table animals, Cascade Operations
     department_id INT         NOT NULL, -- Relationship with table volunteers_departments, Cascade Operations
 
