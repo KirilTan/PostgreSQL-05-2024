@@ -1,7 +1,7 @@
 # PostgreSQL-05-2024
 
 Welcome to my repository! \
-It holds all of my work and assignments completed throughout the Python OOP course.
+It holds all of my work and assignments completed throughout the PostgreSQL course.
 
 ## Course Information
 
