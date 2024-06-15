@@ -24,7 +24,7 @@ Throughout this course, the following topics were covered:
 
 ## Score
 
-**TBD**
+**100/100**
 
 ---
 
